@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\migrations\\20241112182721_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\migrations\\20241112182721_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|c:\\users\\star bussiness\\desktop\\net\\career\\day4tackc180\\day4tackc180\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6369CB6-A22A-4D09-A814-5E91D62678F6}|Day4tackC180\\Day4tackC180.csproj|solutionrelative:day4tackc180\\models\\catalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Program.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\Program.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Program.cs",
+              "RelativeToolTip": "Day4tackC180\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:23:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\appsettings.json",
+              "RelativeDocumentMoniker": "Day4tackC180\\appsettings.json",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\appsettings.json",
+              "RelativeToolTip": "Day4tackC180\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T18:22:52.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Day4tackC180\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:20:11.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Day4tackC180\\Dtos\\ProductDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:19:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Day4tackC180\\models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:05.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241112182721_init.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Migrations\\20241112182721_init.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\Migrations\\20241112182721_init.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\Migrations\\20241112182721_init.cs",
+              "RelativeToolTip": "Day4tackC180\\Migrations\\20241112182721_init.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:27:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\Product.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\Product.cs",
+              "RelativeToolTip": "Day4tackC180\\models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:16:24.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Catalog.cs",
+              "DocumentMoniker": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\Catalog.cs",
+              "RelativeDocumentMoniker": "Day4tackC180\\models\\Catalog.cs",
+              "ToolTip": "C:\\Users\\star bussiness\\Desktop\\net\\career\\Day4tackC180\\Day4tackC180\\models\\Catalog.cs",
+              "RelativeToolTip": "Day4tackC180\\models\\Catalog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:16:02.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

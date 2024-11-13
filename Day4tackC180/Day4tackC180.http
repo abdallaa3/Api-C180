@@ -1,0 +1,6 @@
+@Day4tackC180_HostAddress = http://localhost:5122
+
+GET {{Day4tackC180_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
